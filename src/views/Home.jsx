@@ -52,7 +52,7 @@ const Home = () => {
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              A Data Analyst with the passion to make data tell stories
+              Transforming raw data into impactful insights, one analysis at a time.”
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
