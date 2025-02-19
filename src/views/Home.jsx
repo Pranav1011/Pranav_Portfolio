@@ -36,7 +36,7 @@ const Home = () => {
                   steps={[
                     "Data Analyst",
                     1000,
-                    "Data Engineer",
+                    "Data Scientist",
                     1000, 
                     "Problem Solver",
                     1000, 
@@ -52,7 +52,7 @@ const Home = () => {
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              Transforming raw data into impactful insights, one analysis at a time.”
+              Transforming raw data into impactful insights, one analysis at a time.
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
